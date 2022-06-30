@@ -1,5 +1,5 @@
 # connect4
-Simple **Connect Four** game programmed from scratch using Python's *Tkinter* interface.
+Simple **Connect Four** game on a 8x8 grid programmed from scratch using Python's *Tkinter* interface.
 
 ### Demo
 https://user-images.githubusercontent.com/61386761/176786374-9b10c5c1-fce3-42c8-aceb-16cc6c754822.mp4
